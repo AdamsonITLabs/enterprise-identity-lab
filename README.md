@@ -66,8 +66,10 @@ This directory contains technical screenshots captured during the deployment, co
 
 ## Project Documentation
 
-- [Project Overview](../README.md)
-- [Testing and Validation](../TESTING.md)
+## Project Documentation
+
+- [Project Overview](https://github.com/AdamsonITLabs/enterprise-identity-lab/blob/main/README.md)
+- [Testing and Validation](https://github.com/AdamsonITLabs/enterprise-identity-lab/blob/main/TESTING.md)
 ## Technical Evidence
 
 The following documentation provides evidence of the infrastructure deployment, security configuration and validation performed in this lab.
