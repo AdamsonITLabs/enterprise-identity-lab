@@ -68,6 +68,15 @@ This directory contains technical screenshots captured during the deployment, co
 
 - [Project Overview](../README.md)
 - [Testing and Validation](../TESTING.md)
+## Technical Evidence
+
+The following documentation provides evidence of the infrastructure deployment, security configuration and validation performed in this lab.
+
+- [Infrastructure and Security Screenshot Library](./screenshots/README.md)
+- [Technical Testing and Validation Report](./TESTING.md)
+- [Browse All Screenshots](./screenshots)
+
+The evidence covers Active Directory, DNS, DHCP, Group Policy, access control, Windows Defender Firewall, antivirus protection and authentication auditing.
 
 ## Project Status
 
