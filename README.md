@@ -72,9 +72,12 @@ This directory contains technical screenshots captured during the deployment, co
 
 The following documentation provides evidence of the infrastructure deployment, security configuration and validation performed in this lab.
 
-- [Infrastructure and Security Screenshot Library](./screenshots/README.md)
-- [Technical Testing and Validation Report](./TESTING.md)
-- [Browse All Screenshots](./screenshots)
+## Technical Evidence
+
+- [Enterprise Identity & Infrastructure Lab](https://github.com/AdamsonITLabs/enterprise-identity-lab)
+- [Infrastructure and Security Screenshot Library](https://github.com/AdamsonITLabs/enterprise-identity-lab/blob/main/screenshots/README.md)
+- [Technical Testing and Validation Report](https://github.com/AdamsonITLabs/enterprise-identity-lab/blob/main/TESTING.md)
+- [Browse All Screenshots](https://github.com/AdamsonITLabs/enterprise-identity-lab/tree/main/screenshots)
 
 The evidence covers Active Directory, DNS, DHCP, Group Policy, access control, Windows Defender Firewall, antivirus protection and authentication auditing.
 
